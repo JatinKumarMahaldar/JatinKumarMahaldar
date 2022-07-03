@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin kumar mahaldar</h1>
 <h3 align="center">A passionate and inspering data scientist from India</h3>
 
-<img align="right" alt="coding" width= "400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/31532d7d378053de3b8bf23c6e7bfae3-1.gif">
+<img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/91683536/177051277-06c55c15-f20d-4103-a9e1-a29d6ff58777.gif">
+
+![Picture1](https://user-images.githubusercontent.com/91683536/177051277-06c55c15-f20d-4103-a9e1-a29d6ff58777.gif)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumarmahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumarmahaldar" /> </p>
 
