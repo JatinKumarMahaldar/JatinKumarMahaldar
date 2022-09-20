@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin kumar mahaldar</h1>
 <h3 align="center">A passionate and inspering data scientist from India</h3>
 
-<img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/91683536/177051277-06c55c15-f20d-4103-a9e1-a29d6ff58777.gif">
-
-![Picture1](https://user-images.githubusercontent.com/91683536/177051277-06c55c15-f20d-4103-a9e1-a29d6ff58777.gif)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumarmahaldar&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumarmahaldar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jatin_mahaldar" target="blank"><img src="https://img.shields.io/twitter/follow/jatin_mahaldar?logo=twitter&style=for-the-badge" alt="jatin_mahaldar" /></a> </p>
 
